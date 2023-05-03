@@ -3,7 +3,7 @@
 Pasos para ejecutar la Api
 
 1- Cambiar la informacion del ConectionString con la informacion de tu maquina (Archivo ApiMagic\appsettings.json)
-2- Seleccionar Restaurar paquetes nugets en la solucion(Opcional)
+2- Seleccionar Restaurar paquetes nugets en la solucion
 
 Migraciones Visual Studio
 3- Abrir la seccion de Herramientas
